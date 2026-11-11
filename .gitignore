@@ -1,0 +1,11 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Personal interview & presentation notes (keep local)
+docs/project_summary.md
+
+# Python cache
+__pycache__/
+*.pyc
+
